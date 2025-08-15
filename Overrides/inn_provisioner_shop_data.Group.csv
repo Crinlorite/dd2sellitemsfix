@@ -1,4 +1,3 @@
 element_start,inn_provisioner,ShopData
 m_canSell,True,
-m_sellCategories,combat,inn,stagecoach,trinket,trophy,
 element_end
