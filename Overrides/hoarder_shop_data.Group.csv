@@ -1,0 +1,4 @@
+element_start,hoarder,ShopData
+m_canSell,True,
+m_sellCategories,combat,inn,stagecoach,trinket,trophy,
+element_end

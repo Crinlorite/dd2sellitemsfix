@@ -1,4 +1,5 @@
 #Quest Items
+inventory_sell_instruction=[Shift-Click to sell]
 item_name_quest_trophy_crusader_helmet_a=Battered Helm
 item_quote_quest_trophy_crusader_helmet_a=<i>A helm of the Crusaders.\n\n\nTheir legions lost, their exploits legend.\n\n\nConfront the scattered dregs of the invading army,\n\n\nand purge them from our lands.</i>\n\n\n<color=#{item_typeline}>Must be equipped to progress The Lost Crusade</color>
 item_name_quest_tattered_banner=Tattered Banner
