@@ -1,0 +1,54 @@
+#Quest Items
+item_name_quest_trophy_crusader_helmet_a=Battered Helm
+item_quote_quest_trophy_crusader_helmet_a=<i>A helm of the Crusaders.\n\n\nTheir legions lost, their exploits legend.\n\n\nConfront the scattered dregs of the invading army,\n\n\nand purge them from our lands.</i>\n\n\n<color=#{item_typeline}>Must be equipped to progress The Lost Crusade</color>
+item_name_quest_tattered_banner=Tattered Banner
+item_quote_quest_tattered_banner=<i>Remind the lethargic bishops\n\n\nof the broken battalion to whom\n\n\nthey owe their fealty!</i>
+item_name_quest_unique_reliquary=Unique Reliquary
+item_quote_quest_unique_reliquary=<i>Each of the one hundred Crusaders\n\n\nwere entrusted with a specific reliquary.\n\n\nInscribed with sacred text, they contained\n\n\nessential icons and artifacts of faith.\n\n\nThe lock is rusted tight, and requires tools to open.</i>
+item_name_quest_sanctified_scroll=Sanctified Scroll
+item_quote_quest_sanctified_scroll=<i>The Crusader's Creed - an inspiration\n\n\nto the desperate and downtrodden.\n\n\nSpread the word amongst the\n\n\npeasantry - their defenders endure.</i>\n\n\n<color=#{item_typeline}>Must be equipped to progress The Lost Crusade</color>
+item_name_quest_rumour_of_riches=Rumour of Riches
+item_quote_quest_rumour_of_riches=<i>A roughly drawn map revealing\n\n\nlong lost caches of wealth, pillaged\n\n\nin wartime. Valuable now only to\n\n\nmerchants, pinchfists, and churls.</i>
+item_name_quest_blessed_blade=Blessed Blade
+item_quote_quest_blessed_blade=<i>Though worn and filthy, the sword\n\n\nis singular in its craftmanship.\n\n\nA little care and maintenance will\n\n\neasily restore its lustre...and its cutting edge.</i>
+item_name_quest_trophy_crusader_helmet_b=Helm & Blade
+item_quote_quest_trophy_crusader_helmet_b=<i>The sword points to a glinting\n\n\nlight on the horizon - onward now,\n\n\nand don't spare the horses.</i>\n\n\n<color=#{item_typeline}>Must be equipped to progress The Lost Crusade</color>
+item_type_currency_cru_quest_currency=Currency
+item_tag_cru_quest=The Lost Crusade
+#Hero Items
+item_name_trinket_hero_cru_fieldstone=Fieldstone
+item_description_trinket_hero_cru_fieldstone=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+item_name_trinket_hero_cru_pilfered_wealth=Pilfered Wealth
+item_description_trinket_hero_cru_pilfered_wealth=<color=#AD802FFF>Sell Value:</color></color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+item_name_trinket_hero_cru_signed_indenture=Signed Indenture
+item_description_trinket_hero_cru_signed_indenture=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+item_name_unique_reliquary=Unique Reliquary
+item_quote_unique_reliquary=\n<i>"Faith for the forsaken.\n\n\nJudgement for the rest."</i>\n
+item_description_unique_reliquary=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_relic{q}> 25</color>
+item_name_trinket_hero_dul_academie_ring=Academie Ring
+item_description_trinket_hero_dul_academie_ring=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+item_name_trinket_hero_dul_dark_lanthorn=Dark Lanthorn
+item_description_trinket_hero_dul_dark_lanthorn=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+item_name_trinket_hero_dul_lovers_glove=Lover's Glove
+item_description_trinket_hero_dul_lovers_glove=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+item_name_blade_oil=Blade Oil
+item_quote_blade_oil=\n<i>"A clean blade is a killing blade."</i>\n
+buff_tooltip_buff_item_blade_oil_override=Riposte Skills: Execution 2
+buff_desc_buff_item_blade_oil_override=Riposte Skills: Execution <color=#{neutral}>2 (Until Next Inn)</color>
+item_description_blade_oil=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_relic{q}> 25</color>
+#Warlord Items
+item_name_ear_necklace=Tropaeum
+item_name_trinket_warlord_axe=Securis
+item_description_trinket_warlord_axe=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+item_name_trinket_warlord_gauntlet=Caestus
+item_description_trinket_warlord_gauntlet=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+item_name_trinket_warlord_helmet=Galea
+item_description_trinket_warlord_helmet=<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_factioncurrency{q}> 14</color>\n<color=#6E9A90FF>Tier D</color>
+#
+buff_desc_trinket_cru_pilfered_wealth_03_override=<color=#{notable}>Self:</color> Reap Skills: <color=#{harmful}>-2</color> <color=#{notable}>Relics</color> from inventory (33%)
+bark_pilfered_wealth_remove_relics=<whistles>
+bark_pilfered_wealth_remove_relics=...won't miss these, I'm sure.
+bark_pilfered_wealth_remove_relics=A little off the top for my efforts...
+#
+item_description_ear_necklace_skill_override=Cooldown: 5\nAdd <sprite name={q}token_combo{q}>\n<color=#AD802FFF>Sell Value:</color> <color=#AD802FFF> <sprite name={q}icon_relic{q}> 25</color>
+item_tag_reusable=Reusable
