@@ -1,0 +1,6 @@
+element_start,field_hospital,ShopData
+m_canSell,True,
+m_acceptedCategories,combat,inn,stagecoach,trinket,trophy,
+m_goldCostId,gold_sell_cost,
+m_baublesCostId,valley_baubles_sell_cost,
+element_end
