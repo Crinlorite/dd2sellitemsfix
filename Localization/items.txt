@@ -1,6 +1,4 @@
 ﻿item_buy_value=[Buy Value: {0} Each]
-item_discard=[Shift-Click to sell]
-item_sell_value=[Shift-Click to sell for {0} Each]
 item_type_pet=Pet
 item_subtype_pet=Pet
 item_type_food=Provisions
